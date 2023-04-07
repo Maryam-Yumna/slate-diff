@@ -12,6 +12,8 @@
     "noUnusedParameters": true,
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
+    // "allowJs": true,
+    // "checkJs": false,
     "moduleResolution": "node",
     "baseUrl": "./",
     "paths": {
